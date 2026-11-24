@@ -578,3 +578,32 @@ form:has(input[name="handIn"][value="finder"]:checked) .only-desk { display: non
   body { background: white; }
   .slips a { color: black; background: white; border: 1px solid black; }
 }
+
+.wrap { max-width: 1120px; margin: 0 auto; padding: 32px 20px 56px; min-height: 65vh; }
+.hero { margin-bottom: 28px; padding: 44px; background: #fff; border: 1px solid var(--line); border-radius: 8px; }
+.eyebrow { text-transform: uppercase; letter-spacing: 0.12em; font-size: 0.75rem; font-weight: 600; color: var(--muted); }
+.actions { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; }
+.grid-two { display: grid; gap: 24px; }
+.card-grid { display: grid; gap: 14px; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); }
+.item-card, .desk-panel, .desk-row { background: #fff; border: 1px solid var(--line); border-radius: 6px; padding: 18px; margin-bottom: 14px; }
+.item-card-meta { display: flex; justify-content: space-between; gap: 8px; color: var(--muted); font-size: 0.82rem; }
+.item-card h3 { margin: 10px 0 8px; }
+.quiet, .result-count { color: var(--muted); }
+.section-heading, .page-heading { margin-bottom: 18px; }
+.desk-panel dl, .item-detail dl { display: grid; gap: 8px; }
+.desk-panel dl div, .item-detail dl div { display: flex; justify-content: space-between; border-bottom: 1px solid var(--line); padding: 8px 0; }
+.desk-panel dd, .item-detail dd { margin: 0; }
+.filter-bar { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 12px; align-items: end; background: #fff; border: 1px solid var(--line); padding: 16px; margin-bottom: 18px; }
+.filter-bar label, .form-grid label, .narrow-form label { display: grid; gap: 6px; }
+.filter-bar input, .filter-bar select, .form-grid input, .form-grid select, .form-grid textarea, .narrow-form input { width: 100%; min-height: 42px; border: 1px solid var(--line); border-radius: 4px; padding: 9px 10px; background: #fff; font: inherit; }
+.form-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 14px; background: #fff; border: 1px solid var(--line); padding: 22px; }
+.form-grid fieldset { border: 1px solid var(--line); padding: 14px; }
+.form-grid .wide { grid-column: 1 / -1; }
+.narrow-form { max-width: 420px; display: grid; gap: 14px; background: #fff; border: 1px solid var(--line); padding: 22px; }
+.form-message { color: var(--muted); min-height: 24px; }
+.item-detail { background: #fff; border: 1px solid var(--line); padding: 28px; margin: 18px 0; }
+.pager { display: flex; gap: 8px; margin-top: 18px; }
+.pager .current { background: #1c1c1c; color: #fff; }
+.empty { text-align: center; background: #fff; border: 1px solid var(--line); padding: 32px; }
+.main-nav { display: flex; gap: 16px; }
+.main-nav a { text-decoration: none; }

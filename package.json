@@ -9,7 +9,6 @@
     "test": "node --test app/logic.test.js"
   },
   "dependencies": {
-    "ejs": "^7.0.2",
     "express": "^4.22.3"
   }
 }

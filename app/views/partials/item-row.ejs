@@ -1,9 +1,0 @@
-<a class="record record-<%= statusMeta(item).key %>" href="/items/<%= item.id %>">
-  <span class="record-top">
-    <span class="record-ref"><%= item.ref %></span>
-    <%- include('stamp', { item }) %>
-  </span>
-  <span class="record-title"><%= item.title %></span>
-  <span class="record-meta"><%= item.category %><% if (item.color) { %> · <%= item.color %><% } %> · <%= locationLabel(item) %> · <%= formatDay(item.occurredOn) %></span>
-  <% if (matchIds && matchIds.has && matchIds.has(item.id)) { %><span class="match-flag">Possible match on file</span><% } %>
-</a>
