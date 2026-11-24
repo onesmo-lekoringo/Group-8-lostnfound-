@@ -1,0 +1,15 @@
+{
+  "name": "usiu-lost-found",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node app/server.js",
+    "start": "node app/server.js",
+    "build": "node --check app/server.js && node --check app/store.js && node --check app/logic.js && node --check app/catalog.js",
+    "test": "node --test app/logic.test.js"
+  },
+  "dependencies": {
+    "ejs": "^7.0.2",
+    "express": "^4.22.3"
+  }
+}

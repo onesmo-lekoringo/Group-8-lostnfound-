@@ -1,0 +1,610 @@
+{
+  "savedAt": "2026-11-19T05:00:00.000Z",
+  "settings": {
+    "deskCode": "2468",
+    "campus": "USIU-Africa",
+    "nextNumber": 1045,
+    "catalog": {
+      "categories": [
+        "Electronics",
+        "Bags",
+        "Documents & IDs",
+        "Keys & cards",
+        "Clothing & accessories",
+        "Books & stationery",
+        "Bottles & personal",
+        "Valuables",
+        "Other"
+      ],
+      "places": [
+        "Library & Information Center",
+        "Administration Block",
+        "Chandaria School of Business",
+        "School of Science & Technology",
+        "School of Humanities & Social Sciences",
+        "School of Pharmacy & Health Sciences",
+        "Main Cafeteria",
+        "Auditorium",
+        "Student Center",
+        "Sports Complex",
+        "Computer Laboratories",
+        "Lecture Theatres",
+        "Hostels",
+        "Health Center",
+        "Main Gate & parking",
+        "Other"
+      ],
+      "desks": [
+        "Administration Block — Security Desk",
+        "Library security point",
+        "Main gate security",
+        "Hostel security desk"
+      ],
+      "roles": [
+        "Student",
+        "Staff",
+        "Faculty",
+        "Visitor"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "LST-2026-1004",
+      "ref": "LST-2026-1004",
+      "kind": "lost",
+      "title": "Student ID card",
+      "category": "Documents & IDs",
+      "color": "Blue",
+      "description": "USIU-Africa student ID on a blue lanyard. The photo corner is scuffed and the lanyard clip is silver.",
+      "place": "Library & Information Center",
+      "detail": "Level 2, quiet area",
+      "occurredOn": "2026-11-12",
+      "status": "open",
+      "custody": "n/a",
+      "desk": "",
+      "reporterName": "Amina Hassan",
+      "reporterContact": "amina.hassan@usiu.demo",
+      "reporterRole": "Student",
+      "studentId": "663812",
+      "createdAt": "2026-11-12T06:20:00.000Z",
+      "returnedAt": null,
+      "returnedTo": "",
+      "returnedToId": "",
+      "releaseNote": "",
+      "events": [
+        {
+          "at": "2026-11-12T06:20:00.000Z",
+          "text": "Logged as a lost report. Reference LST-2026-1004 issued."
+        }
+      ]
+    },
+    {
+      "id": "OB-2026-1008",
+      "ref": "OB-2026-1008",
+      "kind": "found",
+      "title": "HP laptop, 14-inch",
+      "category": "Electronics",
+      "color": "Black",
+      "description": "HP laptop with a Kenya flag sticker on the palm rest and a small chip on the front edge of the lid.",
+      "place": "School of Science & Technology",
+      "detail": "Computer lab 3",
+      "occurredOn": "2026-11-13",
+      "status": "open",
+      "custody": "desk",
+      "desk": "Administration Block — Security Desk",
+      "reporterName": "Kevin Njoroge",
+      "reporterContact": "0712 000 118",
+      "reporterRole": "Student",
+      "studentId": "665120",
+      "createdAt": "2026-11-13T08:10:00.000Z",
+      "returnedAt": null,
+      "returnedTo": "",
+      "returnedToId": "",
+      "releaseNote": "",
+      "events": [
+        {
+          "at": "2026-11-13T08:10:00.000Z",
+          "text": "Logged as found and held at Administration Block — Security Desk. Reference OB-2026-1008 issued."
+        }
+      ]
+    },
+    {
+      "id": "LST-2026-1011",
+      "ref": "LST-2026-1011",
+      "kind": "lost",
+      "title": "Car keys on a USIU lanyard",
+      "category": "Keys & cards",
+      "color": "Silver",
+      "description": "Two silver car keys and a house key on a navy USIU lanyard. The remote has a crack across the button.",
+      "place": "Main Gate & parking",
+      "detail": "Lot beside the gate",
+      "occurredOn": "2026-11-14",
+      "status": "open",
+      "custody": "n/a",
+      "desk": "",
+      "reporterName": "David Kiprop",
+      "reporterContact": "david.kiprop@usiu.demo",
+      "reporterRole": "Student",
+      "studentId": "658773",
+      "createdAt": "2026-11-14T04:40:00.000Z",
+      "returnedAt": null,
+      "returnedTo": "",
+      "returnedToId": "",
+      "releaseNote": "",
+      "events": [
+        {
+          "at": "2026-11-14T04:40:00.000Z",
+          "text": "Logged as a lost report. Reference LST-2026-1011 issued."
+        }
+      ]
+    },
+    {
+      "id": "OB-2026-1014",
+      "ref": "OB-2026-1014",
+      "kind": "found",
+      "title": "Navy Hydro Flask",
+      "category": "Bottles & personal",
+      "color": "Navy",
+      "description": "Tall navy bottle with a dent on the cap and a faded sticker of a mountain under the logo.",
+      "place": "Main Cafeteria",
+      "detail": "Counter by the till",
+      "occurredOn": "2026-11-14",
+      "status": "open",
+      "custody": "desk",
+      "desk": "Administration Block — Security Desk",
+      "reporterName": "Lydia Chebet",
+      "reporterContact": "0712 000 204",
+      "reporterRole": "Staff",
+      "studentId": "",
+      "createdAt": "2026-11-14T09:15:00.000Z",
+      "returnedAt": null,
+      "returnedTo": "",
+      "returnedToId": "",
+      "releaseNote": "",
+      "events": [
+        {
+          "at": "2026-11-14T09:15:00.000Z",
+          "text": "Logged as found and held at Administration Block — Security Desk. Reference OB-2026-1014 issued."
+        }
+      ]
+    },
+    {
+      "id": "LST-2026-1016",
+      "ref": "LST-2026-1016",
+      "kind": "lost",
+      "title": "White AirPods charging case",
+      "category": "Electronics",
+      "color": "White",
+      "description": "White charging case only, no earbuds inside. A tiny star is scratched on the lid.",
+      "place": "Auditorium",
+      "detail": "Left block, middle rows",
+      "occurredOn": "2026-11-15",
+      "status": "open",
+      "custody": "n/a",
+      "desk": "",
+      "reporterName": "Fatuma Ali",
+      "reporterContact": "fatuma.ali@usiu.demo",
+      "reporterRole": "Student",
+      "studentId": "671004",
+      "createdAt": "2026-11-15T11:00:00.000Z",
+      "returnedAt": null,
+      "returnedTo": "",
+      "returnedToId": "",
+      "releaseNote": "",
+      "events": [
+        {
+          "at": "2026-11-15T11:00:00.000Z",
+          "text": "Logged as a lost report. Reference LST-2026-1016 issued."
+        }
+      ]
+    },
+    {
+      "id": "OB-2026-1019",
+      "ref": "OB-2026-1019",
+      "kind": "found",
+      "title": "Brown leather wallet",
+      "category": "Valuables",
+      "color": "Brown",
+      "description": "Bifold leather wallet. Cash inside was counted with a second officer when it was handed in and stored with the slip.",
+      "place": "Administration Block",
+      "detail": "Security desk counter",
+      "occurredOn": "2026-11-10",
+      "status": "returned",
+      "custody": "owner",
+      "desk": "Administration Block — Security Desk",
+      "reporterName": "Joseph Atebe",
+      "reporterContact": "security.desk@usiu.demo",
+      "reporterRole": "Staff",
+      "studentId": "",
+      "createdAt": "2026-11-10T07:30:00.000Z",
+      "returnedAt": "2026-11-16T11:20:00.000Z",
+      "returnedTo": "Peter Kamau",
+      "returnedToId": "661902",
+      "releaseNote": "ID checked at the counter.",
+      "events": [
+        {
+          "at": "2026-11-10T07:30:00.000Z",
+          "text": "Logged as found and held at Administration Block — Security Desk. Reference OB-2026-1019 issued."
+        },
+        {
+          "at": "2026-11-16T11:20:00.000Z",
+          "text": "Released to the owner at the security desk."
+        }
+      ]
+    },
+    {
+      "id": "LST-2026-1024",
+      "ref": "LST-2026-1024",
+      "kind": "lost",
+      "title": "Red backpack",
+      "category": "Bags",
+      "color": "Red",
+      "description": "Red backpack with a luggage tag written B. Otieno. A grey hoodie and a notebook were inside.",
+      "place": "Sports Complex",
+      "detail": "Changing room bench",
+      "occurredOn": "2026-11-16",
+      "status": "open",
+      "custody": "n/a",
+      "desk": "",
+      "reporterName": "Brian Otieno",
+      "reporterContact": "brian.otieno@usiu.demo",
+      "reporterRole": "Student",
+      "studentId": "660441",
+      "createdAt": "2026-11-16T10:05:00.000Z",
+      "returnedAt": null,
+      "returnedTo": "",
+      "returnedToId": "",
+      "releaseNote": "",
+      "events": [
+        {
+          "at": "2026-11-16T10:05:00.000Z",
+          "text": "Logged as a lost report. Reference LST-2026-1024 issued."
+        }
+      ]
+    },
+    {
+      "id": "OB-2026-1027",
+      "ref": "OB-2026-1027",
+      "kind": "found",
+      "title": "Black-rimmed glasses",
+      "category": "Clothing & accessories",
+      "color": "Black",
+      "description": "Rectangular black frames in a hard brown case. The left temple is loose.",
+      "place": "Library & Information Center",
+      "detail": "Reading tables, level 1",
+      "occurredOn": "2026-11-16",
+      "status": "open",
+      "custody": "desk",
+      "desk": "Library security point",
+      "reporterName": "Helen Wairimu",
+      "reporterContact": "0712 000 330",
+      "reporterRole": "Staff",
+      "studentId": "",
+      "createdAt": "2026-11-16T12:30:00.000Z",
+      "returnedAt": null,
+      "returnedTo": "",
+      "returnedToId": "",
+      "releaseNote": "",
+      "events": [
+        {
+          "at": "2026-11-16T12:30:00.000Z",
+          "text": "Logged as found and held at Library security point. Reference OB-2026-1027 issued."
+        },
+        {
+          "at": "2026-11-17T09:12:00.000Z",
+          "text": "A claim was filed and is waiting at the security desk."
+        },
+        {
+          "at": "2026-11-17T12:00:00.000Z",
+          "text": "The security desk declined a claim. The item is still open."
+        }
+      ]
+    },
+    {
+      "id": "LST-2026-1030",
+      "ref": "LST-2026-1030",
+      "kind": "lost",
+      "title": "Stewart Calculus, 9th edition",
+      "category": "Books & stationery",
+      "color": "Blue",
+      "description": "Blue cover. My name is pencilled inside the front and a library receipt sits in chapter 4.",
+      "place": "Chandaria School of Business",
+      "detail": "Lecture room B",
+      "occurredOn": "2026-11-17",
+      "status": "open",
+      "custody": "n/a",
+      "desk": "",
+      "reporterName": "Wanjiku Mwangi",
+      "reporterContact": "wanjiku.mwangi@usiu.demo",
+      "reporterRole": "Student",
+      "studentId": "667215",
+      "createdAt": "2026-11-17T05:50:00.000Z",
+      "returnedAt": null,
+      "returnedTo": "",
+      "returnedToId": "",
+      "releaseNote": "",
+      "events": [
+        {
+          "at": "2026-11-17T05:50:00.000Z",
+          "text": "Logged as a lost report. Reference LST-2026-1030 issued."
+        }
+      ]
+    },
+    {
+      "id": "OB-2026-1031",
+      "ref": "OB-2026-1031",
+      "kind": "found",
+      "title": "Blue calculus textbook",
+      "category": "Books & stationery",
+      "color": "Blue",
+      "description": "Hardcover calculus book. A first name is written on the inside of the front cover. Still with the finder until the next class.",
+      "place": "Chandaria School of Business",
+      "detail": "Lecture room B",
+      "occurredOn": "2026-11-17",
+      "status": "open",
+      "custody": "finder",
+      "desk": "",
+      "reporterName": "Neema Joseph",
+      "reporterContact": "0712 000 441",
+      "reporterRole": "Student",
+      "studentId": "672880",
+      "createdAt": "2026-11-17T08:20:00.000Z",
+      "returnedAt": null,
+      "returnedTo": "",
+      "returnedToId": "",
+      "releaseNote": "",
+      "events": [
+        {
+          "at": "2026-11-17T08:20:00.000Z",
+          "text": "Logged as found. The finder still has it and should hand it to a security desk. Reference OB-2026-1031 issued."
+        }
+      ]
+    },
+    {
+      "id": "OB-2026-1033",
+      "ref": "OB-2026-1033",
+      "kind": "found",
+      "title": "Thin gold chain bracelet",
+      "category": "Valuables",
+      "color": "Gold",
+      "description": "Thin gold chain found beside the hostel common-room sink. No charm is visible from the outside.",
+      "place": "Hostels",
+      "detail": "Common room sink",
+      "occurredOn": "2026-11-17",
+      "status": "review",
+      "custody": "desk",
+      "desk": "Hostel security desk",
+      "reporterName": "Caleb Odhiambo",
+      "reporterContact": "caleb.odhiambo@usiu.demo",
+      "reporterRole": "Student",
+      "studentId": "669330",
+      "createdAt": "2026-11-17T14:00:00.000Z",
+      "returnedAt": null,
+      "returnedTo": "",
+      "returnedToId": "",
+      "releaseNote": "",
+      "events": [
+        {
+          "at": "2026-11-17T14:00:00.000Z",
+          "text": "Logged as found and held at Hostel security desk. Reference OB-2026-1033 issued."
+        },
+        {
+          "at": "2026-11-18T07:40:00.000Z",
+          "text": "A claim was filed and is waiting at the security desk."
+        }
+      ]
+    },
+    {
+      "id": "LST-2026-1036",
+      "ref": "LST-2026-1036",
+      "kind": "lost",
+      "title": "Samsung Galaxy A15",
+      "category": "Electronics",
+      "color": "Black",
+      "description": "Samsung Galaxy A15 in a matte black case. The screen protector is cracked at the top corner.",
+      "place": "Student Center",
+      "detail": "Lounge sofa",
+      "occurredOn": "2026-11-18",
+      "status": "open",
+      "custody": "n/a",
+      "desk": "",
+      "reporterName": "Samuel Omondi",
+      "reporterContact": "samuel.omondi@usiu.demo",
+      "reporterRole": "Student",
+      "studentId": "670214",
+      "createdAt": "2026-11-18T09:00:00.000Z",
+      "returnedAt": null,
+      "returnedTo": "",
+      "returnedToId": "",
+      "releaseNote": "",
+      "events": [
+        {
+          "at": "2026-11-18T09:00:00.000Z",
+          "text": "Logged as a lost report. Reference LST-2026-1036 issued."
+        }
+      ]
+    },
+    {
+      "id": "OB-2026-1038",
+      "ref": "OB-2026-1038",
+      "kind": "found",
+      "title": "Black Samsung phone",
+      "category": "Electronics",
+      "color": "Black",
+      "description": "Black Samsung phone in a matte case. The screen protector is cracked in the top corner.",
+      "place": "Student Center",
+      "detail": "Lounge sofa",
+      "occurredOn": "2026-11-18",
+      "status": "review",
+      "custody": "desk",
+      "desk": "Administration Block — Security Desk",
+      "reporterName": "Ian Mwenda",
+      "reporterContact": "0712 000 512",
+      "reporterRole": "Student",
+      "studentId": "668901",
+      "createdAt": "2026-11-18T12:15:00.000Z",
+      "returnedAt": null,
+      "returnedTo": "",
+      "returnedToId": "",
+      "releaseNote": "",
+      "events": [
+        {
+          "at": "2026-11-18T12:15:00.000Z",
+          "text": "Logged as found and held at Administration Block — Security Desk. Reference OB-2026-1038 issued."
+        },
+        {
+          "at": "2026-11-18T15:10:00.000Z",
+          "text": "A claim was filed and is waiting at the security desk."
+        }
+      ]
+    },
+    {
+      "id": "LST-2026-1040",
+      "ref": "LST-2026-1040",
+      "kind": "lost",
+      "title": "Casio fx-991ES calculator",
+      "category": "Books & stationery",
+      "color": "Black",
+      "description": "Casio fx-991ES with a strip of green tape on the battery cover and my initials on the back.",
+      "place": "School of Science & Technology",
+      "detail": "Physics lab",
+      "occurredOn": "2026-11-18",
+      "status": "open",
+      "custody": "n/a",
+      "desk": "",
+      "reporterName": "Grace Achieng",
+      "reporterContact": "grace.achieng@usiu.demo",
+      "reporterRole": "Student",
+      "studentId": "664778",
+      "createdAt": "2026-11-18T06:10:00.000Z",
+      "returnedAt": null,
+      "returnedTo": "",
+      "returnedToId": "",
+      "releaseNote": "",
+      "events": [
+        {
+          "at": "2026-11-18T06:10:00.000Z",
+          "text": "Logged as a lost report. Reference LST-2026-1040 issued."
+        },
+        {
+          "at": "2026-11-18T13:05:00.000Z",
+          "text": "Someone sent the desk a note about where this may have been seen."
+        }
+      ]
+    },
+    {
+      "id": "OB-2026-1044",
+      "ref": "OB-2026-1044",
+      "kind": "found",
+      "title": "Silver USB drive",
+      "category": "Electronics",
+      "color": "Silver",
+      "description": "Swivel USB drive, silver, with a blue band. No names written on it.",
+      "place": "Computer Laboratories",
+      "detail": "Front desk",
+      "occurredOn": "2026-11-08",
+      "status": "returned",
+      "custody": "owner",
+      "desk": "Library security point",
+      "reporterName": "Lab assistant",
+      "reporterContact": "labs@usiu.demo",
+      "reporterRole": "Staff",
+      "studentId": "",
+      "createdAt": "2026-11-08T09:00:00.000Z",
+      "returnedAt": "2026-11-11T10:00:00.000Z",
+      "returnedTo": "Allan Kariuki",
+      "returnedToId": "664100",
+      "releaseNote": "",
+      "events": [
+        {
+          "at": "2026-11-08T09:00:00.000Z",
+          "text": "Logged as found and held at Library security point. Reference OB-2026-1044 issued."
+        },
+        {
+          "at": "2026-11-11T10:00:00.000Z",
+          "text": "Released to the owner at the security desk."
+        }
+      ]
+    },
+    {
+      "id": "LST-2026-1018",
+      "ref": "LST-2026-1018",
+      "kind": "lost",
+      "title": "Yellow compact umbrella",
+      "category": "Clothing & accessories",
+      "color": "Yellow",
+      "description": "Short yellow umbrella with a black handle. The strap is frayed.",
+      "place": "Hostels",
+      "detail": "Laundry room",
+      "occurredOn": "2026-11-09",
+      "status": "resolved",
+      "custody": "n/a",
+      "desk": "",
+      "reporterName": "Joy Atieno",
+      "reporterContact": "joy.atieno@usiu.demo",
+      "reporterRole": "Student",
+      "studentId": "659220",
+      "createdAt": "2026-11-09T08:00:00.000Z",
+      "returnedAt": null,
+      "returnedTo": "",
+      "returnedToId": "",
+      "releaseNote": "",
+      "events": [
+        {
+          "at": "2026-11-09T08:00:00.000Z",
+          "text": "Logged as a lost report. Reference LST-2026-1018 issued."
+        },
+        {
+          "at": "2026-11-12T09:30:00.000Z",
+          "text": "The lost report was marked resolved."
+        }
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "id": "CLM-1001",
+      "itemId": "OB-2026-1033",
+      "name": "Mercy Njeri",
+      "contact": "mercy.njeri@usiu.demo",
+      "studentId": "659441",
+      "proof": "The clasp is a small heart and there is a tiny dent beside it.",
+      "status": "pending",
+      "createdAt": "2026-11-18T07:40:00.000Z",
+      "resolvedAt": null
+    },
+    {
+      "id": "CLM-1002",
+      "itemId": "OB-2026-1038",
+      "name": "Samuel Omondi",
+      "contact": "samuel.omondi@usiu.demo",
+      "studentId": "670214",
+      "proof": "The wallpaper is a photo of Lake Nakuru and the case is matte black.",
+      "status": "pending",
+      "createdAt": "2026-11-18T15:10:00.000Z",
+      "resolvedAt": null
+    },
+    {
+      "id": "CLM-1003",
+      "itemId": "OB-2026-1027",
+      "name": "Ruth Kamene",
+      "contact": "ruth.kamene@usiu.demo",
+      "studentId": "648110",
+      "proof": "I think they are mine because I wear glasses.",
+      "status": "rejected",
+      "createdAt": "2026-11-17T09:00:00.000Z",
+      "resolvedAt": "2026-11-17T12:00:00.000Z"
+    }
+  ],
+  "leads": [
+    {
+      "id": "LED-1001",
+      "itemId": "LST-2026-1040",
+      "name": "Ian Mwenda",
+      "contact": "0712 000 512",
+      "message": "I saw a Casio fx calculator on the windowsill in Lecture Theatre 2 on Tuesday afternoon.",
+      "createdAt": "2026-11-18T13:05:00.000Z"
+    }
+  ]
+}

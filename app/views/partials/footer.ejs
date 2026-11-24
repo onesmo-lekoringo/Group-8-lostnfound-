@@ -1,0 +1,12 @@
+<footer class="site-footer">
+  <div class="footer-inner">
+    <div>
+      <strong>USIU-Africa lost & found</strong>
+      <p>A community register for items left in classrooms, labs, the library, cafeterias, and anywhere else on campus. Found property is logged and kept at the security desks. Bring an ID when you lay a claim.</p>
+    </div>
+    <div>
+      <p>USIU Road, off Thika Road (Exit 7), Nairobi<br>P.O. Box 14634-00800<br>University switchboard +254 730 116 218</p>
+      <% if (savedAt) { %><p class="footer-meta">Register updated <%= formatWhen(savedAt) %></p><% } %>
+    </div>
+  </div>
+</footer>
